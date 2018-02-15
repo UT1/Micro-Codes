@@ -9,9 +9,5 @@ A series of samll codes just for fun
 
   	Displays about the RAM and HDD of the host PC.
 	
-3.Translate Me!!!
-
-	Translates text from one language to another.
-
 
 http://www.holehouse.org/mlclass/
