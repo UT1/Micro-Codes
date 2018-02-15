@@ -8,6 +8,10 @@ A series of samll codes just for fun
 2.Whats my CPU memory status?
 
   	Displays about the RAM and HDD of the host PC.
+	
+3.Translate Me!!!
+
+	Tranlates text from one language to another.
 
 
 http://www.holehouse.org/mlclass/
