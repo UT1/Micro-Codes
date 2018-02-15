@@ -11,7 +11,7 @@ A series of samll codes just for fun
 	
 3.Translate Me!!!
 
-	Tranlates text from one language to another.
+	Translates text from one language to another.
 
 
 http://www.holehouse.org/mlclass/
