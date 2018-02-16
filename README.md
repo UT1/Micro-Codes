@@ -8,9 +8,8 @@ A series of samll codes just for fun
 2.Whats my CPU memory status?
 
   	Displays about the RAM and HDD of the host PC.
-	
-3. Send an Email.
 
+3. Send an Email
 	Sends email using SMTP Protocol.
 	
 http://www.holehouse.org/mlclass/
