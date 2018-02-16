@@ -11,6 +11,6 @@ A series of samll codes just for fun
 	
 3. Send an Email.
 
-##	Sends email using SMTP Protocol.
+	Sends email using SMTP Protocol.
 	
 http://www.holehouse.org/mlclass/
