@@ -10,6 +10,7 @@ A series of samll codes just for fun
   	Displays about the RAM and HDD of the host PC.
 	
 3. Send an Email.
-	Sends email using SMTP Protocol.
+
+##	Sends email using SMTP Protocol.
 	
 http://www.holehouse.org/mlclass/
