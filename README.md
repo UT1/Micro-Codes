@@ -9,4 +9,7 @@ A series of samll codes just for fun
 
   	Displays about the RAM and HDD of the host PC.
 	
+
+IMPORTANT LINKS FOR MACHINE LEARNING
 http://www.holehouse.org/mlclass/
+https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98
