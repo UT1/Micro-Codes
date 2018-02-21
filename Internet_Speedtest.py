@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 15 16:09:53 2018
-
-@author: srivastavau
+@author:UT
 """
 
 
