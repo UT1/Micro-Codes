@@ -9,9 +9,6 @@ A series of samll codes just for fun
 
   	Displays about the RAM and HDD of the host PC.
 	
-3.Wanna Browse anything with 1 Click?
-
-	Opens up a new browser tab with the desirable url.
 	
 
 IMPORTANT LINKS FOR MACHINE LEARNING
