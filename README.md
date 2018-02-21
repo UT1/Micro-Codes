@@ -8,8 +8,9 @@ A series of samll codes just for fun
 2.Whats my CPU memory status?
 
   	Displays about the RAM and HDD of the host PC.
+3.What is my current internet speed?	
 	
-	
+	Runs a speedtest and returns your Internet Speed and Ping
 
 IMPORTANT LINKS FOR MACHINE LEARNING
 http://www.holehouse.org/mlclass/
