@@ -15,3 +15,10 @@ A series of samll codes just for fun
 IMPORTANT LINKS FOR MACHINE LEARNING
 http://www.holehouse.org/mlclass/
 https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98
+
+
+Ideas
+:
+Youtube Downloader
+Character to tone convertor
+
