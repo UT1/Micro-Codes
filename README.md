@@ -15,7 +15,7 @@ A series of samll codes just for fun
 IMPORTANT LINKS FOR MACHINE LEARNING
 http://www.holehouse.org/mlclass/
 https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98
-
+http://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/
 
 Ideas
 :
