@@ -82,7 +82,9 @@ data = data.rename(columns={0:'Zip'})
 
 datax = data[data['Gender']=='M'] 
 
-#Striptime and Date Difference in days
+#### Striptime and Date Difference in days
+
+
 data['DiscoveryDate']= pd.DatetimeIndex(data['Discovery Date']).date
 data['OccurrenceStartDate']= pd.DatetimeIndex(data['Occurrence Start Date']).date
 
