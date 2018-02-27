@@ -62,6 +62,8 @@ Example :
 
 CleanTransform = ScaleClean.transform(data[['Zip']])
 
+
+
 Step3 : Create dataframe of the Clean Transform
 
 Example : clean = pd.DataFrame(CleanTransform)
@@ -91,4 +93,11 @@ data['OccurrenceStartDate']= pd.DatetimeIndex(data['Occurrence Start Date']).dat
 data['Occurrence_Discovery_Diff']=  (data['OccurrenceStartDate'] - data['DiscoveryDate'])/np.timedelta64(1, 'D')
 
 
+####  Remove negative values from columns
 
+
+dat_pos1 =data_numeric[(data_numeric[
+        ['Net Loss','Recovery Amount',
+         'Estimated Gross Loss',
+         'Recovery Amount (percent)',
+         'Occurrence_Discovery_Diff']] > 0).all(1)]
