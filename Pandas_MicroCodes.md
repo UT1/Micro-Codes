@@ -49,21 +49,34 @@ dataframe.replace(r'^\s*$', np.NaN, regex=True, inplace = True)
 ### Scaling the values to remove if you want to treat numeric values on same scale 
 ### Libraries
 from sklearn.preprocessing import StandardScaler
-Step1 : Create Scale_clean using
+
+Step1 : Create ScaleClean using
+
 Example : 
-scale_clean = StandardScaler().fit(data[['Zip']])
+
+ScaleClean = StandardScaler().fit(data[['Zip']])
+
 Step2 :  Create Clean transform 
+
 Example : 
-clean_transform = scale_clean.transform(data[['Zip']])
+
+CleanTransform = ScaleClean.transform(data[['Zip']])
+
 Step3 : Create dataframe of the Clean Transform
-Example : clean = pd.DataFrame(clean_transform)
+
+Example : clean = pd.DataFrame(CleanTransform)
+
 Step4 : Join/Concatenate the Frames
+
 frames = [data,clean]
+
 data = pd.concat(frames,axis=1)
+
 Step4 : Drop the Original Columns and Rename the New Ones 
+
 data = data.drop(['Zip'],1)
+
 data = data.rename(columns={0:'Zip'})
-   
 
 ###Copying the data in a different frame based on column value condition
 
