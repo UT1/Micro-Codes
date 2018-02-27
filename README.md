@@ -8,9 +8,15 @@ A series of samll codes just for fun
 2.Whats my CPU memory status?
 
   	Displays about the RAM and HDD of the host PC.
+
 3.What is my current internet speed?	
 	
-	Runs a speedtest and returns your Internet Speed and Ping
+	Runs a speedtest and returns your Internet Speed and Ping	
+
+4.Wanna read all the sheets of an Excel file in seperate dataframes?	
+	
+	Reads all the sheets in seperate dataframes at once from an excel file.
+
 
 IMPORTANT LINKS FOR MACHINE LEARNING
 http://www.holehouse.org/mlclass/
