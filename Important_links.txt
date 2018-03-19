@@ -8,3 +8,9 @@ https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-languag
 http://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/
 
 https://www.linkedin.com/feed/update/urn:li:activity:6379144726322438144
+
+Feature selection using lasso
+Link -> https://beta.vu.nl/nl/Images/werkstuk-fonti_tcm235-836234.pdf
+
+Resampling Data
+Link -> https://arxiv.org/pdf/1608.06048.pdf
