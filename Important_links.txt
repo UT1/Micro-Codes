@@ -14,3 +14,6 @@ Link -> https://beta.vu.nl/nl/Images/werkstuk-fonti_tcm235-836234.pdf
 
 Resampling Data
 Link -> https://arxiv.org/pdf/1608.06048.pdf
+
+Multilabel classification
+https://stackoverflow.com/questions/42819460/what-is-the-difference-between-onevsrestclassifier-and-multioutputclassifier-in
