@@ -17,3 +17,7 @@ Link -> https://arxiv.org/pdf/1608.06048.pdf
 
 Multilabel classification
 https://stackoverflow.com/questions/42819460/what-is-the-difference-between-onevsrestclassifier-and-multioutputclassifier-in
+
+
+Data Distribution
+http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
