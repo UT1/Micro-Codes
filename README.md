@@ -27,7 +27,8 @@ A series of samll codes just for fun
 
 7.Visualize missing data
 	
-	Short codes to visualize the missing values in the data .. during Data cleaning process of Machine learning model building. 		(Visualize_missing_Value.py)
+	Short codes to visualize the missing values in the data .. during Data cleaning process of Machine learning model building
+	(Visualize_missing_Value.py)
 
 
 Ideas
