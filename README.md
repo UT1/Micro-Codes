@@ -1,5 +1,5 @@
 # Micro-Codes
-A series of samll codes just for fun
+A series of samll codes to automate boring stuff
 
 1.My Location
 
@@ -17,22 +17,23 @@ A series of samll codes just for fun
 
 	Check the basic specs of your PC:Graphics,Processor,Operating System,RAM(My_Computer_Specs.py)
 
-5.Have a look at some Pandas Microcodes!!!
-
+5.ScreenSnipper
+	
+	Take the Screenshot after a 10 seconds gap,compatible with any python platform.(ScreenSnipper.py)
+	
+6.Have a look at some Pandas Microcodes!!!
 
 	Pandas_Microcodes.md
 
-6.Read all the sheets in seperate dataframes at once fromone single excel file.
+7.Read all the sheets in seperate dataframes at once fromone single excel file.
 
 
-7.Visualize missing data
+8.Visualize missing data
 	
-	Short codes to visualize the missing values in the data .. during Data cleaning process of Machine learning model building
-	(Visualize_missing_Value.py)
+	Short codes to visualize the missing values in the data .. during Data cleaning process
+	of Machine learning model building(Visualize_missing_Value.py)
 
 
-Ideas
-:
+Upcoming:
 Youtube Downloader
 Character to tone convertor
-
