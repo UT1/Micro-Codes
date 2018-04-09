@@ -24,3 +24,7 @@ http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-
 
 Speech Recognition
 https://realpython.com/python-speech-recognition/
+
+Multioutput Classification
+https://programtalk.com/python-examples/sklearn.multioutput.MultiOutputClassifier/
+
